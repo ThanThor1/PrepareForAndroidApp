@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">TestMapBox</string>
-    <string name="mapbox_access_token" translatable="false">Điền token vào đây</string>
-</resources>
